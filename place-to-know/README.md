@@ -16,3 +16,7 @@ PORT | porta em que a aplicação irá rodar
 ## rodando o projeto
 basicamente é necessario rodar o comando do docker-composer
 `docker-compose up`
+
+## documetação
+
+para acessar a documentação use a rota /api
